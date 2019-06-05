@@ -4,6 +4,9 @@ https://github.com/lovell/sharp
 
 https://sharp.dimens.io/en/stable/
 
+#### aquos
+https://github.com/takagotch/aquos
+
 ```js
 const sharp = require('sharp');
 
